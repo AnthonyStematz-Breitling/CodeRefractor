@@ -1,2 +1,3 @@
 # CodeRefractor
-Code Refracting Homework week 1 
+https://anthonystematz-breitling.github.io/CodeRefractor/
+I refracted the code checking specifically for accessability.
